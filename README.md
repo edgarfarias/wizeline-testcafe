@@ -1,2 +1,3 @@
 # wizeline-testcafe
-Challenge Exercises
+
+Challenge Exercises for Wizeline QA Fullstack certification

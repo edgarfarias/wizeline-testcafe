@@ -1,0 +1,23 @@
+{
+  "name": "wizeline-testcafe",
+  "version": "1.0.0",
+  "description": "challenge exercises for wizeline qa full stack certification",
+  "main": "index.js",
+  "scripts": {
+    "test-all-chrome": "testcafe chrome swag-labs/tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edgarfarias/wizeline-testcafe.git"
+  },
+  "author": "Edgar Farias",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edgarfarias/wizeline-testcafe/issues"
+  },
+  "homepage": "https://github.com/edgarfarias/wizeline-testcafe#readme",
+  "devDependencies": {
+    "dotenv": "^8.2.0",
+    "prettier": "^2.2.1"
+  }
+}
